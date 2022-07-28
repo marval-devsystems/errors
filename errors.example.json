@@ -1,0 +1,37 @@
+[
+    {
+        "error": "invalid email value",
+        "http_status": 400,
+        "msg": {
+            "ru": "Недопустимое значение электронной почты"
+        }
+    },
+    {
+        "error": "invalid login value",
+        "http_status": 400,
+        "msg": {
+            "ru": "Недопустимое значение логина"
+        }
+    },
+    {
+        "error": "invalid password value",
+        "http_status": 400,
+        "msg": {
+            "ru": "Недопустимое значение пароля"
+        }
+    },
+    {
+        "error": "invalid username value",
+        "http_status": 400,
+        "msg": {
+            "ru": "Недопустимое значение имени пользователя"
+        }
+    },
+    {
+        "error": "invalid login or password",
+        "http_status": 401,
+        "msg": {
+            "ru": "Неправильный логин или пароль"
+        }
+    }
+]
